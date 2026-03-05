@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
-==============================================================================================================================
+Hi 👋 My name is Pavel Sinitsyn
 
-Java ✅ Spring ✅ React ✅ Postgre SQL ✅ 
---------------------------------------------------------------- 
+Java Backend Developer
 
-3+ years of experience in Java, PostgreSQL, Maven, thinking through architecture.
-I also have experience in Spring, a little React, Docker, and REST API.
+Java ✔ Spring Boot ✔ PostgreSQL ✔ REST API ✔ Docker
 
-* 🌍  I'm based in Czech Republic
-* 🧠  Leading the development of a social analytics platform
-* ⚡  Interested in interesting startup ideas
-* ✉️  You can contact me at [pashasinitsyn1@gmail.com](mailto:pashasinitsyn@mail.ru)
+I focus on backend development using Java and Spring Boot.  
+Currently working on a gaming social platform backend.
 
+📍 Based in Czech Republic  
+💻 Leading development of a gaming social platform backend  
+🚀 Interested in backend systems and startup projects  
+
+📧 Contact: pashasinitsyn1@gmail.com
