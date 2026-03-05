@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
+==============================================================================================================================
 
-<!--
-**rstman/rstman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java ✅ Spring ✅ React ✅ Postgre SQL ✅ 
+--------------------------------------------------------------- 
 
-Here are some ideas to get you started:
+3+ years of experience in Java, PostgreSQL, Maven, thinking through architecture.
+I also have experience in Spring, a little React, Docker, and REST API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Czech Republic
+* 🧠  Leading the development of a social analytics platform
+* ⚡  Interested in interesting startup ideas
+* ✉️  You can contact me at [pashasinitsyn1@gmail.com](mailto:pashasinitsyn@mail.ru)
+
