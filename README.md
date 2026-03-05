@@ -13,3 +13,11 @@ Currently developing a **gaming social platform backend**, implementing user pro
 🚀 Interested in backend systems and startup projects  
 
 📫 Contact: pashasinitsyn1@gmail.com
+
+---
+
+### Main Project
+
+The **WPS gaming social platform backend** repository is currently private due to configuration and API keys.
+
+Code can be shared upon request (for example, during the interview process).
